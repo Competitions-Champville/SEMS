@@ -14,3 +14,5 @@ Team members :
 * KHOURY Elie
 * KHOURY Jean-Pierre
 * ODEIMY Edwin 
+
+PS. The final project might look a little different cause we are considering converting to a plastic structure which is more elegant, along with rearranging the wiring and some minor modifications that will not affect the aim or the general appearance of the project.
